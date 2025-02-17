@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B392F0&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C678DD&height=120&section=header" alt="header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B392F0&width=435&lines=This+is+Adham+Ghallab!;Computer+Science+Student;Competitive+Programmer;Aspiring+Software+Engineer;AI+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C678DD&width=435&lines=This+is+Adham+Ghallab!;Computer+Science+Student;Competitive+Programmer;Aspiring+Software+Engineer;AI+Enthusiast)](https://git.io/typing-svg)
 
 ##  About Me:
 
@@ -54,5 +54,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adhamghallab)
 
 ### "The important thing is to not stop questioning. Curiosity has its own reason for existing." – Albert Einstein 👁️
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B392F0&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C678DD&height=120&section=footer" alt="footer"/>
 
