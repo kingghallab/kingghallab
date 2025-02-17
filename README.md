@@ -38,9 +38,11 @@
 
 ## 📈 GitHub Stats:
 
-![Adham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adham-Git&show_icons=true&theme=radical)
+![Adham's GitHub Stats](![Adham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingghallab&show_icons=true&theme=radical&count_private=true)
+)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adham-Git&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingghallab&layout=compact&theme=radical&count_private=true)
+
 
 ---
 
