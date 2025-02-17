@@ -11,7 +11,7 @@
 - 🌌 Astronomy is my **favorite topic**, and I love discussing **physics and math**.
 - 🎮 Currently **exploring Node.js & Full Stack Development**.
 - 💡 I enjoy **solving algorithmic problems** and optimizing code.
-- 🌐 My goal is to **build a great career**.
+- 🌐 My goal is to **build a great career and live a prosperous life**.
 
 ---
 
@@ -38,8 +38,7 @@
 
 ## 📈 GitHub Stats:
 
-![Adham's GitHub Stats](![Adham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingghallab&show_icons=true&theme=radical&count_private=true)
-)
+![Adham's GitHub Stats](![Adham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingghallab&show_icons=true&theme=radical&count_private=true))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingghallab&layout=compact&theme=radical&count_private=true)
 
