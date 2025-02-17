@@ -11,7 +11,7 @@
 - 🌌 Astronomy is my **favorite topic**, and I love discussing **physics and math**.
 - 🎮 Currently **exploring Node.js & Full Stack Development**.
 - 💡 I enjoy **solving algorithmic problems** and optimizing code.
-- 🌐 My goal is to **work in the USA or Europe** and build a great career.
+- 🌐 My goal is to **build a great career**.
 
 ---
 
@@ -46,11 +46,14 @@
 
 ## 📫 Let's Connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhamghallab/)
-[comment]: <> ([![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adham))
-[comment]: <> ([![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adham))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhamghallab)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adham)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adham)
+-->
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/adhamghallab)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adhamghallab)
 
 ---
 
-### "The important thing is to not stop questioning. Curiosity has its own reason for existing." – Albert Einstein
+### "The important thing is to not stop questioning. Curiosity has its own reason for existing." – Albert Einstein 👁️
 
