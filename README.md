@@ -4,7 +4,7 @@
 
 ##  About Me:
 
--  I'm a **Computer Science** at Cairo University.
+-  I'm a **Computer Science Student** at Cairo University.
 -  Passionate about **Software Development**, **Competitive Programming**, and **Artificial Intelligence**.
 -  Astronomy is my **favorite topic**, and I love discussing **physics and math**.
 -  Currently **exploring Node.js & Full Stack Development**.
