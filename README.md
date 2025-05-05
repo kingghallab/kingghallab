@@ -2,37 +2,35 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C678DD&width=435&lines=This+is+Adham+Ghallab!;Computer+Science+Student;Competitive+Programmer;Aspiring+Software+Engineer;AI+Enthusiast)](https://git.io/typing-svg)
 
-##  About Me:
+##  About Me
 
 -  I'm a **Computer Science Student** at Cairo University.
 -  Passionate about **Software Development**, **Competitive Programming**, and **Artificial Intelligence**.
--  Astronomy is my **favorite topic**, and I love discussing **physics and math**.
--  Currently **exploring Node.js & Full Stack Development**.
+-  Currently **exploring and conquering Full-Stack Development**.
 -  I enjoy **solving algorithmic problems** and optimizing code.
--  My goal is to **build a great career and live a prosperous life**.
-
+-  Astronomy enthusiast with a deep passion for physics and mathematics.
 ---
-## 🚀 Tech Stack
+## Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧠 Frameworks & Libraries
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🛠 Tools & IDEs
+### Tools & IDEs
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
