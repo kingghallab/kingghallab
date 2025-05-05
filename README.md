@@ -9,7 +9,7 @@
 -  Currently **exploring and conquering Full-Stack Development**.
 -  I enjoy **solving algorithmic problems** and optimizing code.
 -  Astronomy enthusiast with a deep passion for physics and mathematics.
----
+
 ## Tech Stack
 
 ### Languages
