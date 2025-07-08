@@ -45,7 +45,7 @@
 
 ## Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/184oWtm42dR0iSuTnj8A18yqHV7Hq0UZO/view?usp=drive_link" download>View or Download My Resume</a>
+> <a href="https://drive.google.com/file/d/10oQtcb6SkcETrGX6sdNXmk1kVK49EaTR/view?usp=sharing" download>View or Download My Resume</a>
 
 
 ## 📫 Let's Connect:
